@@ -1,12 +1,12 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+All files apart of this repository are from ITSC 1213. The all use object oriented programming and created using java.
+
+
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
+PROJECT TITLE: Inheritance
+PURPOSE OF PROJECT: To display my understand of how inheritance works.
+VERSION or DATE: 
+HOW TO START THIS PROJECT: 
+AUTHORS: Chidi Osakwe
 USER INSTRUCTIONS:
